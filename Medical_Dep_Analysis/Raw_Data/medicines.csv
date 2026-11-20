@@ -1,0 +1,21 @@
+medicine_id,medicine_name,category,dosage_form
+101,Paracetamol 500mg,Painkiller,Tablet
+102,Amoxicillin 500mg,Antibiotic,Capsule
+103,Ibuprofen 200mg,Painkiller,Tablet
+104,Metformin 500mg,Diabetes,Tablet
+105,Salbutamol 100mcg,Respiratory,Inhaler
+106,Cetirizine 10mg,Allergy,Tablet
+107,Omeprazole 20mg,Gastrointestinal,Capsule
+108,Amlodipine 5mg,Cardiovascular,Tablet
+109,ORS Sachets,Rehydration,Sachet
+110,Cotrimoxazole 960mg,Antibiotic,Tablet
+111,Insulin Regular,Diabetes,Vial
+112,Hydrocortisone 1%,Dermatology,Cream
+113,Loratadine 10mg,Allergy,Tablet
+114,Azithromycin 250mg,Antibiotic,Tablet
+115,Furosemide 40mg,Cardiovascular,Tablet
+116,Diclofenac 50mg,Painkiller,Tablet
+117,Vitamin B Complex,Supplement,Tablet
+118,Fluconazole 150mg,Antifungal,Capsule
+119,Lisinopril 10mg,Cardiovascular,Tablet
+120,Gliclazide 80mg,Diabetes,Tablet
